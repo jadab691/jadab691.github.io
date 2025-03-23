@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(253, 242, 227);
+} 
+h5{
+    color: blueviolet;
+}
+h4{
+    color: rgb(253, 242, 227);
+}
+.Stem{
+    color: rgb(38, 47, 47);
+    background-color: rgb(197, 220, 212);
+    font-size: 18px;
+    font-style: italic;
+}
+.Question{
+    font-style: bold;
+    background-color: rgb(238, 231, 237);
+    color: rgb(124, 48, 131);
+
+}
+.mcqQuestion{
+    color: rgb(25, 44, 36);
+    background-color: rgb(156, 154, 151);
+    font-size: 18px;
+    font-style: italic;
+}
+.mcqOption{
+    font-style: bold;
+    background-color: rgb(195, 196, 192);
+    color: rgb(91, 56, 83);
+
+}
